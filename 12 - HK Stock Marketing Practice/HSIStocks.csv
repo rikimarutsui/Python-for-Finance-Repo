@@ -1,51 +1,51 @@
-﻿Stock No,Stock Name,Index Category
-0005.HK,滙豐控股,恒生金融分類指數
-0011.HK,恒生銀行,恒生金融分類指數
-0388.HK,香港交易所,恒生金融分類指數
-0939.HK,建設銀行,恒生金融分類指數
-1299.HK,友邦保險,恒生金融分類指數
-1398.HK,工商銀行,恒生金融分類指數
-2318.HK,中國平安,恒生金融分類指數
-2388.HK,中銀香港,恒生金融分類指數
-2628.HK,中國人壽,恒生金融分類指數
-3328.HK,交通銀行,恒生金融分類指數
-3988.HK,中國銀行,恒生金融分類指數
-0012.HK,恒基地產,恒生地產分類指數
-0016.HK,新鴻基地產,恒生地產分類指數
-0017.HK,新世界發展,恒生地產分類指數
-0083.HK,"	信和置業",恒生地產分類指數
-0101.HK,恒隆地產,恒生地產分類指數
-0688.HK,中國海外發展,恒生地產分類指數
-0823.HK,領展房產基金,恒生地產分類指數
-1109.HK,華潤置地,恒生地產分類指數
-1113.HK,"	長實集團",恒生地產分類指數
-1997.HK,九龍倉置業,恒生地產分類指數
-2007.HK,碧桂園,恒生地產分類指數
-0002.HK,中電控股,恒生公用事業分類指數
-0003.HK,香港中華煤氣,恒生公用事業分類指數
-0006.HK,電能實業,恒生公用事業分類指數
-0836.HK,華潤電力,恒生公用事業分類指數
-1038.HK,長江基建集團,恒生公用事業分類指數
-0001.HK,長和,恒生工商業分類指數
-0019.HK,太古股份公司Ａ,恒生工商業分類指數
-0027.HK,銀河娛樂,恒生工商業分類指數
-0066.HK,港鐵公司,恒生工商業分類指數
-0151.HK,中國旺旺,恒生工商業分類指數
-0175.HK,吉利汽車,恒生工商業分類指數
-0267.HK,中信股份,恒生工商業分類指數
-0288.HK,萬洲國際,恒生工商業分類指數
-0386.HK,中國石油化工股份,恒生工商業分類指數
-0700.HK,騰訊控股,恒生工商業分類指數
-0762.HK,中國聯通,恒生工商業分類指數
-0857.HK,中國石油股份,恒生工商業分類指數
-0883.HK,中國海洋石油,恒生工商業分類指數
-0941.HK,中國移動,恒生工商業分類指數
-1044.HK,恒安國際,恒生工商業分類指數
-1088.HK,中國神華,恒生工商業分類指數
-1093.HK,石藥集團,恒生工商業分類指數
-1177.HK,中國生物製藥,恒生工商業分類指數
-1928.HK,金沙中國有限公司,恒生工商業分類指數
-2018.HK,瑞聲科技,恒生工商業分類指數
-2313.HK,申洲國際,恒生工商業分類指數
-2319.HK,蒙牛乳業,恒生工商業分類指數
-2382.HK,舜宇光學科技,恒生工商業分類指數
+﻿Stock No,Stock Name,Index Category,1st Cat,2nd Cat,Country
+0005.HK,滙豐控股,恒生金融分類指數,Finance,Bank,Hong Kong
+0011.HK,恒生銀行,恒生金融分類指數,Finance,Bank,Hong Kong
+0388.HK,香港交易所,恒生金融分類指數,Finance,Finance,Hong Kong
+0939.HK,建設銀行,恒生金融分類指數,Finance,Bank,China
+1299.HK,友邦保險,恒生金融分類指數,Finance,Insurance,Hong Kong
+1398.HK,工商銀行,恒生金融分類指數,Finance,Bank,China
+2318.HK,中國平安,恒生金融分類指數,Finance,Insurance,China
+2388.HK,中銀香港,恒生金融分類指數,Finance,Bank,Hong Kong
+2628.HK,中國人壽,恒生金融分類指數,Finance,Insurance,China
+3328.HK,交通銀行,恒生金融分類指數,Finance,Bank,China
+3988.HK,中國銀行,恒生金融分類指數,Finance,Bank,China
+0012.HK,恒基地產,恒生地產分類指數,Property,Property,Hong Kong
+0016.HK,新鴻基地產,恒生地產分類指數,Property,Property,Hong Kong
+0017.HK,新世界發展,恒生地產分類指數,Property,Property,Hong Kong
+0083.HK,"	信和置業",恒生地產分類指數,Property,Property,Hong Kong
+0101.HK,恒隆地產,恒生地產分類指數,Property,Property,Hong Kong
+0688.HK,中國海外發展,恒生地產分類指數,Property,Property,
+0823.HK,領展房產基金,恒生地產分類指數,Property,Property,Hong Kong
+1109.HK,華潤置地,恒生地產分類指數,Property,Property,
+1113.HK,"	長實集團",恒生地產分類指數,Property,Property,Hong Kong
+1997.HK,九龍倉置業,恒生地產分類指數,Property,Property,Hong Kong
+2007.HK,碧桂園,恒生地產分類指數,Property,Property,China
+0002.HK,中電控股,恒生公用事業分類指數,Uilities,Eletrontic,Hong Kong
+0003.HK,香港中華煤氣,恒生公用事業分類指數,Uilities,Gas,Hong Kong
+0006.HK,電能實業,恒生公用事業分類指數,Uilities,Eletrontic,Hong Kong
+0836.HK,華潤電力,恒生公用事業分類指數,Uilities,Eletrontic,China
+1038.HK,長江基建集團,恒生公用事業分類指數,Uilities,Facility,Hong Kong
+0001.HK,長和,恒生工商業分類指數,Commercial,Business,Hong Kong
+0019.HK,太古股份公司Ａ,恒生工商業分類指數,Commercial,Business,Hong Kong
+0027.HK,銀河娛樂,恒生工商業分類指數,Commercial,Gambling,Macau
+0066.HK,港鐵公司,恒生工商業分類指數,Commercial,Traffic,Hong Kong
+0151.HK,中國旺旺,恒生工商業分類指數,Commercial,Food,China
+0175.HK,吉利汽車,恒生工商業分類指數,Commercial,Car,China
+0267.HK,中信股份,恒生工商業分類指數,Commercial,Car,China
+0288.HK,萬洲國際,恒生工商業分類指數,Commercial,Food,China
+0386.HK,中國石油化工股份,恒生工商業分類指數,Commercial,Oil & Coal,China
+0700.HK,騰訊控股,恒生工商業分類指數,Commercial,Technology,China
+0762.HK,中國聯通,恒生工商業分類指數,Commercial,Communication,China
+0857.HK,中國石油股份,恒生工商業分類指數,Commercial,Oil & Coal,China
+0883.HK,中國海洋石油,恒生工商業分類指數,Commercial,Oil & Coal,China
+0941.HK,中國移動,恒生工商業分類指數,Commercial,Communication,China
+1044.HK,恒安國際,恒生工商業分類指數,Commercial,Hygiene,China
+1088.HK,中國神華,恒生工商業分類指數,Commercial,Oil & Coal,China
+1093.HK,石藥集團,恒生工商業分類指數,Commercial,Medical,China
+1177.HK,中國生物製藥,恒生工商業分類指數,Commercial,Medical,China
+1928.HK,金沙中國有限公司,恒生工商業分類指數,Commercial,Gambling,Macau
+2018.HK,瑞聲科技,恒生工商業分類指數,Commercial,Technology,China
+2313.HK,申洲國際,恒生工商業分類指數,Commercial,Cloth,China
+2319.HK,蒙牛乳業,恒生工商業分類指數,Commercial,Food,China
+2382.HK,舜宇光學科技,恒生工商業分類指數,Commercial,Technology,China
